@@ -5,7 +5,7 @@ use b;
 class B
 
 {
-public function B(
+public function TestB(
     ){
     return    "g";
 }
